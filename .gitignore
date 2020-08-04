@@ -1,0 +1,3 @@
+#Ian Gordon  CSCE 155N
+#Ignore all the .fig files using the asterick operator
+*.fig

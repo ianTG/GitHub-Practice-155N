@@ -11,7 +11,7 @@
 
  Created a repository using GitHub Desktop
 
- Commited to the repository using ? 
+ Commited to the repository using GitHub Desktop
 
  Updated the README.md using Visual Studio Code and GitHub Desktop
 
