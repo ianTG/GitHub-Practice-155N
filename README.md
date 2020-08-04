@@ -15,6 +15,6 @@
 
  Updated the README.md using Visual Studio Code and GitHub Desktop
 
- Added a .gitignore file using ?
+ Added a .gitignore file using and commited from Visual Studio Code
 
  Created the development branch using GitHub Desktop
